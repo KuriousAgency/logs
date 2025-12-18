@@ -1,11 +1,11 @@
 {
   "name": "ether/logs",
   "description": "Access logs from the CP",
-  "version": "4.0.1",
+  "version": "5.0.0",
   "type": "craft-plugin",
   "minimum-stability": "dev",
   "require": {
-    "craftcms/cms": "^4.0.0"
+    "craftcms/cms": "^5.0.0"
   },
   "autoload": {
     "psr-4": {
